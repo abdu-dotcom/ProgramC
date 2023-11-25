@@ -1,0 +1,3 @@
+D:/App/CLion 2023.2.2/Workspace/FristProgramC/cmake-build-debug/CMakeFiles/FristProgramC.dir
+D:/App/CLion 2023.2.2/Workspace/FristProgramC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/App/CLion 2023.2.2/Workspace/FristProgramC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

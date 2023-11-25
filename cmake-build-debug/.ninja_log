@@ -1,0 +1,7 @@
+# ninja log v5
+2	101	7224543421447755	CMakeFiles/FristProgramC.dir/main.c.obj	81365bc42fe046c7
+13	625	7225391064647164	CMakeFiles/FristProgramC.dir/file.c.obj	3acad3c00dad113b
+101	213	7224543422526862	FristProgramC.exe	14901816acb3bdb3
+1	179	7225890733985962	build.ninja	abc497a3a0f013ac
+5	515	7225391063500229	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3.c.obj	d7468895a40e5849
+4	247	7225391189550171	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3Case2.c.obj	40ec0cf863c3563
