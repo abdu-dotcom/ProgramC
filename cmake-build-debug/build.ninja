@@ -49,29 +49,35 @@ cmake_ninja_workdir = D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/cmake-buil
 
 build cmake_object_order_depends_target_FristProgramC: phony || CMakeFiles/FristProgramC.dir
 
-build CMakeFiles/FristProgramC.dir/main.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/main.c || cmake_object_order_depends_target_FristProgramC
-  DEP_FILE = CMakeFiles\FristProgramC.dir\main.c.obj.d
+build CMakeFiles/FristProgramC.dir/Other/main.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/Other/main.c || cmake_object_order_depends_target_FristProgramC
+  DEP_FILE = CMakeFiles\FristProgramC.dir\Other\main.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FristProgramC.dir
-  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir
+  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir\Other
 
-build CMakeFiles/FristProgramC.dir/file.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/file.c || cmake_object_order_depends_target_FristProgramC
-  DEP_FILE = CMakeFiles\FristProgramC.dir\file.c.obj.d
+build CMakeFiles/FristProgramC.dir/Other/file.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/Other/file.c || cmake_object_order_depends_target_FristProgramC
+  DEP_FILE = CMakeFiles\FristProgramC.dir\Other\file.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FristProgramC.dir
-  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir
+  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir\Other
 
-build CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/AssignmentPersonalWeek3.c || cmake_object_order_depends_target_FristProgramC
-  DEP_FILE = CMakeFiles\FristProgramC.dir\AssignmentPersonalWeek3.c.obj.d
+build CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3/AssignmentPersonalWeek3.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/AssignmentPersonalWeek3/AssignmentPersonalWeek3.c || cmake_object_order_depends_target_FristProgramC
+  DEP_FILE = CMakeFiles\FristProgramC.dir\AssignmentPersonalWeek3\AssignmentPersonalWeek3.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FristProgramC.dir
-  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir
+  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir\AssignmentPersonalWeek3
 
-build CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3Case2.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/AssignmentPersonalWeek3Case2.c || cmake_object_order_depends_target_FristProgramC
-  DEP_FILE = CMakeFiles\FristProgramC.dir\AssignmentPersonalWeek3Case2.c.obj.d
+build CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3/AssignmentPersonalWeek3Case2.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/AssignmentPersonalWeek3/AssignmentPersonalWeek3Case2.c || cmake_object_order_depends_target_FristProgramC
+  DEP_FILE = CMakeFiles\FristProgramC.dir\AssignmentPersonalWeek3\AssignmentPersonalWeek3Case2.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\FristProgramC.dir
-  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir
+  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir\AssignmentPersonalWeek3
+
+build CMakeFiles/FristProgramC.dir/Kalkulator/Calculator.c.obj: C_COMPILER__FristProgramC_unscanned_Debug D$:/App/CLion$ 2023.2.2/Workspace/FristProgramC/Kalkulator/Calculator.c || cmake_object_order_depends_target_FristProgramC
+  DEP_FILE = CMakeFiles\FristProgramC.dir\Kalkulator\Calculator.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\FristProgramC.dir
+  OBJECT_FILE_DIR = CMakeFiles\FristProgramC.dir\Kalkulator
 
 
 # =============================================================================
@@ -81,7 +87,7 @@ build CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3Case2.c.obj: C_COMPILE
 #############################################
 # Link the executable FristProgramC.exe
 
-build FristProgramC.exe: C_EXECUTABLE_LINKER__FristProgramC_Debug CMakeFiles/FristProgramC.dir/main.c.obj CMakeFiles/FristProgramC.dir/file.c.obj CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3.c.obj CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3Case2.c.obj
+build FristProgramC.exe: C_EXECUTABLE_LINKER__FristProgramC_Debug CMakeFiles/FristProgramC.dir/Other/main.c.obj CMakeFiles/FristProgramC.dir/Other/file.c.obj CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3/AssignmentPersonalWeek3.c.obj CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3/AssignmentPersonalWeek3Case2.c.obj CMakeFiles/FristProgramC.dir/Kalkulator/Calculator.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\FristProgramC.dir

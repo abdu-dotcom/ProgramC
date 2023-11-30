@@ -3,8 +3,9 @@ project(FristProgramC C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(FristProgramC main.c
-        file.c
+add_executable(FristProgramC Other/main.c
+        Other/file.c
         AssignmentPersonalWeek3/AssignmentPersonalWeek3.c
         AssignmentPersonalWeek3/AssignmentPersonalWeek3Case2.c
+        Kalkulator/Calculator.c
 )
