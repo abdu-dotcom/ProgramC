@@ -1,7 +1,12 @@
 # ninja log v5
-2	101	7224543421447755	CMakeFiles/FristProgramC.dir/main.c.obj	81365bc42fe046c7
+3	102	7226025038164123	CMakeFiles/FristProgramC.dir/main.c.obj	81365bc42fe046c7
 13	625	7225391064647164	CMakeFiles/FristProgramC.dir/file.c.obj	3acad3c00dad113b
 101	213	7224543422526862	FristProgramC.exe	14901816acb3bdb3
-1	179	7225890733985962	build.ninja	abc497a3a0f013ac
-5	515	7225391063500229	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3.c.obj	d7468895a40e5849
-4	247	7225391189550171	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3Case2.c.obj	40ec0cf863c3563
+0	302	7226025701263538	build.ninja	abc497a3a0f013ac
+13	115	7226024979392774	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3.c.obj	d7468895a40e5849
+7	330	7226024159578530	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3Case2.c.obj	40ec0cf863c3563
+0	233	7226025701263538	build.ninja	abc497a3a0f013ac
+6	102	7226025702991189	CMakeFiles/FristProgramC.dir/file.c.obj	3acad3c00dad113b
+2	127	7226025703250479	CMakeFiles/FristProgramC.dir/main.c.obj	81365bc42fe046c7
+2	100	7226028101524901	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3Case2.c.obj	40ec0cf863c3563
+3	177	7230512386181455	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3.c.obj	d7468895a40e5849

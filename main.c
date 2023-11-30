@@ -51,7 +51,7 @@ int caseTwo() {
     printf("\nTotal Jumlah huruf = %d", lengthKalimat1 + lengthKalimat2 + lengthKalimat3);
     return 0;
 }
-int  main() {
-//    caseOne();
+void  main() {
+    caseOne();
     caseTwo();
 }
