@@ -37,6 +37,9 @@ int main() {
     printf("Masukkan Jumlah Mahasiswa : ");
     scanf("%d",&jumlahMahasiswa);
 
+    if(jumlahMahasiswa < 10) 
+        printf("Masukkan Minimal 10 Mahasiswa");
+    else
     for (int i = 0; i < jumlahMahasiswa; ++i) {
         int ratarataNilai = 0;
 
