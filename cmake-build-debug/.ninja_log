@@ -2,13 +2,12 @@
 2	127	7226025703250479	CMakeFiles/FristProgramC.dir/main.c.obj	81365bc42fe046c7
 6	102	7226025702991189	CMakeFiles/FristProgramC.dir/file.c.obj	3acad3c00dad113b
 101	213	7224543422526862	FristProgramC.exe	14901816acb3bdb3
-0	233	7237999244514113	build.ninja	abc497a3a0f013ac
+0	233	7243501269535641	build.ninja	abc497a3a0f013ac
 3	177	7230512386181455	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3.c.obj	d7468895a40e5849
 27	297	7230541775012890	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3/AssignmentPersonalWeek3Case2.c.obj	2215b8c5ef4d538f
 2	100	7226028101524901	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3Case2.c.obj	40ec0cf863c3563
 11	272	7230541775002924	CMakeFiles/FristProgramC.dir/AssignmentPersonalWeek3/AssignmentPersonalWeek3.c.obj	5fa785b107a9744f
-2	106	7230548778235261	CMakeFiles/FristProgramC.dir/Kalkulator/Calculator.c.obj	3755a07909895ce6
-20	335	7230541775651167	CMakeFiles/FristProgramC.dir/Other/file.c.obj	72ed2596a84f886
-0	383	7230541776127670	CMakeFiles/FristProgramC.dir/Other/main.c.obj	f7b4d6f6b9e2daf0
 3	1102	7238000731991746	CMakeFiles/FristProgramC.dir/TaskForumSeason6.c.obj	e84a38a142372024
 8	2030	7238000741156591	CMakeFiles/FristProgramC.dir/Kalkulator/Calculator.c.obj	3755a07909895ce6
+20	335	7230541775651167	CMakeFiles/FristProgramC.dir/Other/file.c.obj	72ed2596a84f886
+0	383	7230541776127670	CMakeFiles/FristProgramC.dir/Other/main.c.obj	f7b4d6f6b9e2daf0
